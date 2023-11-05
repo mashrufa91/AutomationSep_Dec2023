@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.qa.automation.oct_7.Data_pro_rules"/>
+      <class name=".TestNG_TN_login_register"/>
+      <class name="com.qa.automation.Sep30_Day_9DependOnMesthod.DependonMethod"/>
+      <class name="com.qa.automation_testing_login_oct_8_day12.Rediff_testng"/>
+      <class name="com.qa.automation_testing_login_oct_8_day12.Chrome__Options"/>
+      <class name="com.qa.testNG.oct_4.TN_Reg_testng"/>
+      <class name="com.qa.automation.Sep30_Day_9DependOnMesthod.Assertion"/>
+      <class name="com.qa.automation_testing_login_oct_8_day12.TN_Search"/>
+      <class name="com.automation.qa.sep23_2023_day8.TestNg_Basics"/>
+      <class name="com.qa.automation.Sep30_Day_9DependOnMesthod.TN_ASSERTION_REG"/>
+      <class name="com.automation.qa.testngTutorial.TestNG_BASICS_TN"/>
+      <class name="com.automation.qa.sep23_2023_day8.TestNG_login_register_TN"/>
+      <class name="com.qa.automation.Sep30_Day_9DependOnMesthod.Assertions_inTestNG"/>
+      <class name="com.qa.automation.oct_7.DataProvider_TutorialsNinja"/>
+      <class name="com.qa.automation_Day12_oct_14_Assertion.ClassAssignment"/>
+      <class name="com.qa.automation.oct_7.Dta_provider_tn"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
